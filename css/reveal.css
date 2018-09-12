@@ -1589,3 +1589,25 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+  .Umanis-logo
+  {
+  top:-50px;
+  left:-100px;
+  width: 350px;
+  height: 200px;
+  /*background-image: url('logo.png');*/
+  background-repeat: no-repeat;
+  background-position: left bottom ;
+  position:absolute;
+  }
+  .Paris13-logo
+  {
+  top:-50px;
+  right:-100px;
+  width: 350px;
+  height: 200px;
+  /*background-image: url('logo.png');*/
+  background-repeat: no-repeat;
+  background-position: right bottom ;
+  position:absolute;
+  }
